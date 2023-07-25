@@ -1,0 +1,10 @@
+* cl-prolog2
+
+Common Interface to ISO Prolog implementations from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cl-model-languages/cl-prolog2.git   |
+| commit  | 21531c5  |
+| systems | cl-prolog2 |
+|---------+-------------------------------------------|
+
